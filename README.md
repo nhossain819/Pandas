@@ -1,5 +1,7 @@
 # Pandas
 
+*Create DF must be run first.
+
 The files of this repository are samples of my Pandas skillset.
 
 These are the result of self-teaching as well as practice exercises found through W3resource.
