@@ -4,11 +4,15 @@ The files of this repository are samples of my Pandas skillset.
 
 These are the result of self-teaching as well as practice exercises found through W3resource.
 
-SAMPLE DATASET CREDIT: The dataset used here is a sample dataset found on W3resource and 
+
+SAMPLE DATASET CREDIT: 
+
+The dataset used here is a sample dataset found on W3resource and 
 originating from https://github.com/mwaskom/seaborn-data . The sample dataset involves the 
 characteristics of diamonds.
 
-SAMPLE ROWS FROM DATASET
+SAMPLE ROWS FROM DATASET:
+
 "carat","cut","color","clarity","depth","table","price","x","y","z"
 0.23,"Ideal","E","SI2",61.5,55,326,3.95,3.98,2.43
 0.21,"Premium","E","SI1",59.8,61,326,3.89,3.84,2.31
